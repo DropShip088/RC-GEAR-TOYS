@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="RC GEAR TOYS">
+  <rect width="128" height="128" rx="24" fill="#161616"/>
+  <path d="M20 76h88c5 0 9 4 9 9v6H11v-6c0-5 4-9 9-9z" fill="#d91f2b"/>
+  <path d="M35 76l18-25h32l24 25H35z" fill="#f8fafc"/>
+  <path d="M60 56h20l15 20H47l13-20z" fill="#1e4fd7"/>
+  <circle cx="38" cy="92" r="14" fill="#ffffff"/>
+  <circle cx="90" cy="92" r="14" fill="#ffffff"/>
+  <circle cx="38" cy="92" r="7" fill="#161616"/>
+  <circle cx="90" cy="92" r="7" fill="#161616"/>
+  <text x="64" y="34" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="16" font-weight="900">RC GEAR</text>
+</svg>
